@@ -1,6 +1,4 @@
-# xyz.com exercise
-
-CSS Exercise B
+# specificity exercise
 
 - without touching the html, use specificity to change the styles of the items below
 
