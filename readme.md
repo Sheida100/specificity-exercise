@@ -1,6 +1,7 @@
 # specificity exercise
 
 - without touching the html, use specificity to change the styles of the items below
+  - do not add classes and id's
 
 1. image in to the left needs to be 200px x 200px
 
